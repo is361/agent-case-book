@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Agent 用例大全 · 大家拿 AI 智能体干成的真事</title>
+<meta name="description" content="AI 智能体用例大全：收录全网拿 AI Agent 干成的真事——搞钱、效率、内容创作，每日自动更新。">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <h1>Agent 用例大全</h1>
+  <p class="sub">大家拿 AI 智能体干成的真事，每日收录 · 自动更新</p>
+  <p class="stats" id="stats">正在加载…</p>
+</header>
+
+<main>
+  <div class="toolbar">
+    <input id="q" type="search" placeholder="搜索用例，如：简历、退款、剪视频">
+  </div>
+  <div class="chips" id="chips"></div>
+  <section id="list"></section>
+</main>
+
+<footer>
+  <div class="sponsor">
+    <strong>赞助位</strong>
+    <p>你的产品 / 服务出现在这里，触达关注 AI 智能体的用户。位很少，先到先得。</p>
+    <a class="btn" href="mailto:sponsor@example.com">买赞助位</a>
+  </div>
+  <div class="follow">
+    <p>更多用例拆解，公众号 <span class="hl">＿＿＿</span> · 抖音 <span class="hl">＿＿＿</span></p>
+    <a href="llms.txt">AI 助手可读版（llms.txt）</a>
+  </div>
+</footer>
+
+<script>
+const CATS = [
+  ["all", "全部"], ["money", "搞钱·民生"], ["work", "效率·职场"], ["content", "内容·生意"]
+];
+let data = [], cat = "all", q = "";
+
+const chipsEl = document.getElementById("chips");
+CATS.forEach(([id, name]) => {
+  const b = document.createElement("button");
+  b.className = "chip" + (id === "all" ? " on" : "");
+  b.textContent = name;
+  b.onclick = () => { cat = id; q = ""; document.getElementById("q").value = "";
+    document.querySelectorAll(".chip").forEach(c => c.classList.remove("on"));
+    b.classList.add("on"); render(); };
+  chipsEl.appendChild(b);
+});
+document.getElementById("q").oninput = e => { q = e.target.value.trim(); render(); };
+
+function esc(s){return String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));}
+
+function render() {
+  const list = data.cases
+    .filter(c => (cat === "all" || c.cat === cat) &&
+      (!q || (c.title + c.desc).toLowerCase().includes(q.toLowerCase())))
+    .sort((a, b) => (b.date || "").localeCompare(a.date || "") || b.id - a.id);
+  const newCount = data.cases.filter(c => c.new).length;
+  document.getElementById("stats").textContent =
+    `已收录 ${data.cases.length} 条 · 本周新 ${newCount} 条 · 更新于 ${data.updated}`;
+  document.getElementById("list").innerHTML = list.map(c => `
+    <article class="card">
+      <div class="card-top">
+        <h3>${esc(c.title)}${c.new ? '<span class="new">新</span>' : ""}</h3>
+        <span class="tag">${esc((CATS.find(x => x[0] === c.cat) || ["", "其他"])[1])}</span>
+      </div>
+      <p>${esc(c.desc)}</p>
+      <p class="meta">${c.date ? esc(c.date) + " · " : ""}
+        <a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.source || "来源")} ↗</a>
+      </p>
+    </article>`).join("") || `<p class="empty">没有匹配的用例，换个词试试。</p>`;
+}
+
+fetch("cases.json?t=" + Date.now())
+  .then(r => r.json())
+  .then(d => { data = d; render(); })
+  .catch(() => { document.getElementById("stats").textContent = "加载失败，请检查 cases.json"; });
+</script>
+</body>
+</html>
