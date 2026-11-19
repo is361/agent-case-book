@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-19",
  "cases": [
   {
    "id": 1,
@@ -65,7 +65,7 @@
    "id": 7,
    "title": "1.4万条AI自动化模板",
    "desc": "n8n社区库14000+模板，AI类可自动写内容、回客服",
-   "cat": "content",
+   "cat": "work",
    "source": "n8n",
    "url": "https://n8n.io/workflows/",
    "date": "",
@@ -85,7 +85,7 @@
    "id": 9,
    "title": "一人咨询所靠AI代理",
    "desc": "弃用Wix自建AI门答客，自动回答咨询FAQ、接住询盘",
-   "cat": "content",
+   "cat": "work",
    "source": "Hacker News (Show HN)",
    "url": "https://news.ycombinator.com/item?id=47441587",
    "date": "2026-03-19",
@@ -95,7 +95,7 @@
    "id": 10,
    "title": "对话式建站接单",
    "desc": "Bolt.new对话生成网站与App，错误降98%，大厂团队在用",
-   "cat": "content",
+   "cat": "work",
    "source": "Bolt官网",
    "url": "https://bolt.new/",
    "date": "",
@@ -105,7 +105,7 @@
    "id": 11,
    "title": "AI建出6000万应用",
    "desc": "Lovable用户建6000万+应用，一人建时尚App省2.5万英镑/月",
-   "cat": "content",
+   "cat": "work",
    "source": "Lovable官方博客",
    "url": "https://lovable.dev/blog/series-c",
    "date": "2026-08-12",
@@ -115,7 +115,7 @@
    "id": 12,
    "title": "400美金建10万美金级App",
    "desc": "非程序员周末建App，5天拿到1.5万美金首单客户",
-   "cat": "content",
+   "cat": "work",
    "source": "Replit客户案例",
    "url": "https://replit.com/customers/genaipi",
    "date": "",
@@ -125,7 +125,7 @@
    "id": 13,
    "title": "财富500强团队AI建应用",
    "desc": "86%的财富500强在用Replit，一公司24小时建135个App",
-   "cat": "content",
+   "cat": "work",
    "source": "Replit客户库",
    "url": "https://replit.com/customers",
    "date": "",
@@ -135,7 +135,7 @@
    "id": 14,
    "title": "AI客服处理三分之二对话",
    "desc": "Klarna AI助手首月承接2/3客服对话，相当于700名坐席",
-   "cat": "content",
+   "cat": "work",
    "source": "Klarna官方新闻稿",
    "url": "https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/",
    "date": "2024-02-28",
@@ -145,7 +145,7 @@
    "id": 15,
    "title": "电商AI客服团队",
    "desc": "Gorgias AI Agent服务Shopify头部品牌，自动处理售前售后",
-   "cat": "content",
+   "cat": "work",
    "source": "Gorgias客户案例",
    "url": "https://www.gorgias.com/customers",
    "date": "",
@@ -155,7 +155,7 @@
    "id": 16,
    "title": "大牌品牌的AI客服",
    "desc": "Sierra Agent服务Wayfair、Next等品牌，全渠道自动客服",
-   "cat": "content",
+   "cat": "work",
    "source": "Sierra客户案例",
    "url": "https://sierra.ai/customers",
    "date": "",
@@ -175,7 +175,7 @@
    "id": 18,
    "title": "AI生成专业商品图",
    "desc": "Shopify Magic把随手拍商品图变成专业图，配文案与聊天",
-   "cat": "content",
+   "cat": "work",
    "source": "The Verge",
    "url": "https://www.theverge.com/24056980/shopify-generative-ai-image-editing-search",
    "date": "2024-02-01",
@@ -185,7 +185,7 @@
    "id": 19,
    "title": "AI自动写商品文案",
    "desc": "Shopify Magic几秒生成高质量商品描述，卖家一键使用",
-   "cat": "content",
+   "cat": "work",
    "source": "Shopify博客",
    "url": "https://www.shopify.com/blog/ai-product-descriptions",
    "date": "2023-04-20",
@@ -195,7 +195,7 @@
    "id": 20,
    "title": "非洲八市场AI客服",
    "desc": "Jumia代理经WhatsApp处理50%支持量，80%咨询免人工",
-   "cat": "content",
+   "cat": "work",
    "source": "Chatbase案例",
    "url": "https://www.chatbase.co/customers/jumia",
    "date": "",
@@ -205,7 +205,7 @@
    "id": 21,
    "title": "健康品牌1小时上线代理",
    "desc": "一人团队AI代理兼客服与销售，邮件支持量预计降50%",
-   "cat": "content",
+   "cat": "work",
    "source": "Chatbase案例",
    "url": "https://www.chatbase.co/customers/luv-health",
    "date": "",
@@ -215,7 +215,7 @@
    "id": 22,
    "title": "餐馆AI接电话订位",
    "desc": "Slang自动接听订位电话，Texas de Brazil满意率96%",
-   "cat": "content",
+   "cat": "work",
    "source": "Slang官网",
    "url": "https://www.slang.ai/",
    "date": "",
@@ -235,7 +235,7 @@
    "id": 24,
    "title": "客服公司All-in AI代理",
    "desc": "Intercom改名Fin主打AI客服，后被Salesforce收购",
-   "cat": "content",
+   "cat": "work",
    "source": "Intercom博客",
    "url": "https://www.intercom.com/blog/today-intercom-becomes-fin/",
    "date": "2026-05-12",
@@ -289,7 +289,7 @@
    "source": "EdWorkingPapers（布朗大学）",
    "url": "https://edworkingpapers.com/ai26-1551",
    "date": "2026-08",
-   "new": false
+   "new": true
   },
   {
    "id": 30,
@@ -305,7 +305,7 @@
    "id": 31,
    "title": "AI自动写病历",
    "desc": "Abridge把医患对话转成病历与计费文档，KLAS市场领先",
-   "cat": "content",
+   "cat": "work",
    "source": "Abridge官网",
    "url": "https://www.abridge.com/",
    "date": "",
@@ -315,7 +315,7 @@
    "id": 32,
    "title": "药企AI视频培训",
    "desc": "Merck KGaA用Synthesia AI虚拟人生成大规模培训视频",
-   "cat": "content",
+   "cat": "work",
    "source": "Synthesia案例",
    "url": "https://www.synthesia.io/case-studies/merck-kgaa",
    "date": "",
@@ -325,7 +325,7 @@
    "id": 33,
    "title": "自研低价切片工具卖钱",
    "desc": "独立开发者做浏览器版OpusClip替代品，按次收费回血",
-   "cat": "content",
+   "cat": "money",
    "source": "Hacker News (Show HN)",
    "url": "https://news.ycombinator.com/item?id=44754637",
    "date": "2025-08-01",
@@ -339,17 +339,17 @@
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
    "date": "2026-11-10",
-   "new": true
+   "new": false
   },
   {
    "id": 35,
    "title": "ChatGPT上线企业智能体",
    "desc": "经认证的商业智能体代表公司出面，代比价购物、处理商务事务。",
-   "cat": "money",
+   "cat": "work",
    "source": "The Verge",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
    "date": "2026-11-10",
-   "new": true
+   "new": false
   },
   {
    "id": 36,
@@ -359,7 +359,7 @@
    "source": "The Verge",
    "url": "https://www.theverge.com/tech/1031029/metas-muse-can-now-deal-with-a-forwarded-email",
    "date": "2026-11-10",
-   "new": true
+   "new": false
   },
   {
    "id": 37,
@@ -369,7 +369,7 @@
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
    "date": "2026-11-10",
-   "new": true
+   "new": false
   },
   {
    "id": 38,
@@ -379,7 +379,7 @@
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
    "date": "2026-11-10",
-   "new": true
+   "new": false
   },
   {
    "id": 39,
@@ -389,17 +389,17 @@
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
    "date": "2026-11-10",
-   "new": true
+   "new": false
   },
   {
    "id": 40,
    "title": "ChatGPT企业档案学Google",
    "desc": "OpenAI上线企业档案，商家信息入对话，ChatGPT更像搜索发现引擎。",
-   "cat": "money",
+   "cat": "work",
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
    "date": "2026-11-10",
-   "new": true
+   "new": false
   },
   {
    "id": 41,
@@ -409,7 +409,7 @@
    "source": "Hacker News",
    "url": "https://github.com/GoogleChrome/modern-web-guidance",
    "date": "2026-11-10",
-   "new": true
+   "new": false
   },
   {
    "id": 42,
@@ -435,7 +435,7 @@
    "id": 44,
    "title": "vork：给智能体的3D引擎",
    "desc": "Voyager开源无头3D/VFX引擎，智能体代渲染特效，研究预览版。",
-   "cat": "content",
+   "cat": "work",
    "source": "GitHub",
    "url": "https://github.com/voyager-so/vork",
    "date": "2026-11-05",
@@ -459,7 +459,7 @@
    "source": "The Verge",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1031117/demis-hassabis-used-ai-to-reverse-engineer-his-own-game-and-port-it-to-the-web",
    "date": "2026-11-10",
-   "new": true
+   "new": false
   },
   {
    "id": 47,
@@ -469,7 +469,7 @@
    "source": "Hacker News",
    "url": "https://github.com/aws/aws-emulator",
    "date": "2026-11-11",
-   "new": true
+   "new": false
   },
   {
    "id": 48,
@@ -479,7 +479,7 @@
    "source": "Google Blog",
    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
    "date": "2026-11-11",
-   "new": true
+   "new": false
   },
   {
    "id": 49,
@@ -489,7 +489,7 @@
    "source": "Hacker News",
    "url": "https://news.ycombinator.com/item?id=50455811",
    "date": "2026-11-11",
-   "new": true
+   "new": false
   },
   {
    "id": 50,
@@ -499,7 +499,7 @@
    "source": "GitHub",
    "url": "https://github.com/FrigadeHQ/yogurt",
    "date": "2026-11-11",
-   "new": true
+   "new": false
   },
   {
    "id": 51,
@@ -509,7 +509,7 @@
    "source": "Hacker News",
    "url": "https://blog.atuin.sh/threads-agent-sessions/",
    "date": "2026-11-11",
-   "new": true
+   "new": false
   },
   {
    "id": 52,
@@ -519,7 +519,7 @@
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
    "date": "2026-11-11",
-   "new": true
+   "new": false
   },
   {
    "id": 53,
@@ -549,7 +549,7 @@
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
    "date": "2026-11-11",
-   "new": true
+   "new": false
   },
   {
    "id": 56,
@@ -559,7 +559,7 @@
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
    "date": "2026-11-10",
-   "new": true
+   "new": false
   },
   {
    "id": 57,
@@ -569,7 +569,7 @@
    "source": "The Verge",
    "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
    "date": "2026-11-11",
-   "new": true
+   "new": false
   },
   {
    "id": 58,
@@ -579,7 +579,7 @@
    "source": "GitHub",
    "url": "https://github.com/klad-app/klad",
    "date": "2026-11-11",
-   "new": true
+   "new": false
   },
   {
    "id": 59,
@@ -589,7 +589,7 @@
    "source": "GitHub",
    "url": "https://github.com/sadilek/obeya",
    "date": "2026-11-11",
-   "new": true
+   "new": false
   },
   {
    "id": 60,
@@ -625,7 +625,7 @@
    "id": 63,
    "title": "Telltale辨智能体访客",
    "desc": "把网站访客分成人、AI智能体、机器人三类，接进GA4分析，超64%请求来自机器",
-   "cat": "money",
+   "cat": "work",
    "source": "Telltale Bot",
    "url": "https://telltale.bot/",
    "date": "2026-11-12",
@@ -639,7 +639,7 @@
    "source": "CBS News",
    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
    "date": "2026-11-11",
-   "new": true
+   "new": false
   },
   {
    "id": 65,
@@ -765,7 +765,7 @@
    "id": 77,
    "title": "GPU画布支持智能体操作",
    "desc": "gpucanvas用GPU渲染无限画布，智能体可读取并点选画布节点",
-   "cat": "content",
+   "cat": "work",
    "source": "GitHub",
    "url": "https://github.com/berkantay/gpucanvas",
    "date": "2026-11-12",
@@ -1025,7 +1025,7 @@
    "id": 103,
    "title": "AI社媒经理全自动日更",
    "desc": "Emelyn学习你的业务定选题，生成图文视频并每天自动发布",
-   "cat": "content",
+   "cat": "work",
    "source": "Emelyn",
    "url": "https://www.emelyn.ai",
    "date": "2026-11-16",
@@ -1083,16 +1083,236 @@
   },
   {
    "id": 109,
+   "title": "智能体自助优化CI流水线",
+   "desc": "StarSling智能体给仓库提PR优化CI，最慢流程从30分钟缩到5分钟",
+   "cat": "work",
+   "source": "StarSling",
+   "url": "https://starsling.dev",
+   "date": "2026-11-17",
+   "new": true
+  },
+  {
+   "id": 110,
+   "title": "一个窗口装一队AI程序员",
+   "desc": "Sikemux把Claude与Codex等装进同一窗口，智能体互相转活还能手机遥控",
+   "cat": "work",
+   "source": "Sikemux",
+   "url": "https://sikemux.com/",
+   "date": "2026-11-17",
+   "new": true
+  },
+  {
+   "id": 111,
+   "title": "智能体任务队列通宵干活",
+   "desc": "Even Keel按顺序喂任务给编码智能体，遇限流自动等待，作者月跑2000场会话",
+   "cat": "work",
+   "source": "Even Keel",
+   "url": "https://github.com/NamerekT/even-keel",
+   "date": "2026-11-17",
+   "new": true
+  },
+  {
+   "id": 112,
+   "title": "AI智能体把Meta告上法庭",
+   "desc": "Meta误封小企业账号，其Muse智能体自己写诉状索赔7.5万美元，还发函白宫",
+   "cat": "money",
+   "source": "404 Media",
+   "url": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
+   "date": "2026-11-17",
+   "new": true
+  },
+  {
+   "id": 113,
+   "title": "智能体框架包暗藏窃密代码",
+   "desc": "微软agent-framework连出两个带窃密后门的PyPI版本，间隔仅33分钟",
+   "cat": "work",
+   "source": "Aikido",
+   "url": "https://www.aikido.dev/blog/two-malicious-agent-framework-releases-hit-pypi-in-33-minutes",
+   "date": "2026-11-17",
+   "new": true
+  },
+  {
+   "id": 114,
+   "title": "大模型智能体组队踢足球",
+   "desc": "Soccer-Bench让10个模型智能体踢5v5，只许短喊传令，Claude对阵GPT有榜",
+   "cat": "content",
+   "source": "Soccer-Bench",
+   "url": "https://darksinian.github.io/soccer-bench/",
+   "date": "2026-11-17",
+   "new": true
+  },
+  {
+   "id": 115,
+   "title": "网站隐藏接口变智能体工具",
+   "desc": "Machine Internet把网站隐藏接口转成MCP工具，智能体直接调用",
+   "cat": "work",
+   "source": "Machine Internet",
+   "url": "https://github.com/chetanty/machine_internet",
+   "date": "2026-11-17",
+   "new": true
+  },
+  {
+   "id": 116,
+   "title": "给智能体搭的恶搞传销网",
+   "desc": "LLMMLM是恶搞的智能体多层传销网络，智能体读skill.md就能拉下线冲排行榜",
+   "cat": "content",
+   "source": "LLMMLM",
+   "url": "https://llm-mlm.com/",
+   "date": "2026-11-17",
+   "new": true
+  },
+  {
+   "id": 117,
+   "title": "编码智能体把瓶颈挤到评审",
+   "desc": "哈佛研究发现智能体写码提速后，代码评审成了新瓶颈，团队得重新排兵布阵",
+   "cat": "work",
+   "source": "ComplexDiscovery",
+   "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+   "date": "2026-11-17",
+   "new": true
+  },
+  {
+   "id": 118,
+   "title": "考智能体能否当资深工程师",
+   "desc": "Surge发布sudo L7基准，用60个真实工程任务考判断力，最强模型只拿45%",
+   "cat": "work",
+   "source": "Surge AI",
+   "url": "https://surgehq.ai/blog/sudo-l7",
+   "date": "2026-11-17",
+   "new": true
+  },
+  {
+   "id": 119,
+   "title": "KPMG智能体审计提问更优",
+   "desc": "KPMG用百余智能体审账，提问比人类审计师更深入",
+   "cat": "money",
+   "source": "European Business Magazine",
+   "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+   "date": "2026-11-18",
+   "new": true
+  },
+  {
+   "id": 120,
+   "title": "银行称智能体被黑概不负责",
+   "desc": "花旗等银行表态：客户用AI智能体出事，银行不担责",
+   "cat": "money",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+   "date": "2026-11-18",
+   "new": true
+  },
+  {
+   "id": 121,
+   "title": "纳德拉称智能体改写网页经济",
+   "desc": "纳德拉：AI智能体将冲击广告模式，逼巨头重想竞争",
+   "cat": "money",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+   "date": "2026-11-18",
+   "new": true
+  },
+  {
+   "id": 122,
+   "title": "智能体专属云Maritime",
+   "desc": "Maritime给每个智能体独享微VM，闲置休眠月费1美元",
+   "cat": "work",
+   "source": "Maritime",
+   "url": "https://maritime.sh",
+   "date": "2026-11-18",
+   "new": true
+  },
+  {
+   "id": 123,
+   "title": "智能体设计仿真测PCB",
+   "desc": "Nihil让智能体设计、仿真并测试PCB，2412项固件检查全过",
+   "cat": "work",
+   "source": "Nihil",
+   "url": "https://nihil.sh/",
+   "date": "2026-11-18",
+   "new": true
+  },
+  {
+   "id": 124,
+   "title": "部署失败自动交给编码智能体",
+   "desc": "Spooky盯住Vercel，部署一挂就把报错交给编码智能体修",
+   "cat": "work",
+   "source": "Spooky Particles",
+   "url": "https://spookyparticles.com",
+   "date": "2026-11-18",
+   "new": true
+  },
+  {
+   "id": 125,
+   "title": "智能体远程操控所有电脑",
+   "desc": "RockDesk让Claude Code等一句指令远程操作你所有机器",
+   "cat": "work",
+   "source": "RockDesk",
+   "url": "https://rockdesk.io/",
+   "date": "2026-11-18",
+   "new": true
+  },
+  {
+   "id": 126,
+   "title": "浏览器里的营销智能体",
+   "desc": "ShopPilot在Chrome里自动完成Klaviyo等营销操作",
+   "cat": "work",
+   "source": "ShopPilot",
+   "url": "https://shoppilot.ch/",
+   "date": "2026-11-18",
+   "new": true
+  },
+  {
+   "id": 127,
+   "title": "149M小模型跑七成智能体",
+   "desc": "milo-pointer用149M本地模型处理七成手机智能体步骤",
+   "cat": "work",
+   "source": "milo-pointer",
+   "url": "https://github.com/chayworks/milo-pointer",
+   "date": "2026-11-18",
+   "new": true
+  },
+  {
+   "id": 128,
+   "title": "Minecraft多智能体实时评测",
+   "desc": "KradleBench在Minecraft实时多智能体对战中测AI",
+   "cat": "content",
+   "source": "KradleBench",
+   "url": "https://www.kradle.ai",
+   "date": "2026-11-18",
+   "new": true
+  },
+  {
+   "id": 129,
+   "title": "AI智能体事故公开数据库",
+   "desc": "事故登记库收录122起智能体出事记录，每天早晨更新",
+   "cat": "content",
+   "source": "Experiment Empire",
+   "url": "https://www.experimentempire.com/agent-incident-register",
+   "date": "2026-11-18",
+   "new": true
+  },
+  {
+   "id": 130,
+   "title": "Snapchat智能体生成AR",
+   "desc": "Snapchat让Claude Code等智能体用一句话做出AR滤镜",
+   "cat": "content",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+   "date": "2026-11-18",
+   "new": true
+  },
+  {
+   "id": 131,
    "title": "加航聊天机器人退款败诉",
    "desc": "客服AI编造丧亲票价政策，判例要求加航照此退款赔乘客。",
    "cat": "money",
    "source": "Wired",
    "url": "https://www.wired.com/story/air-canada-chatbot-refund-policy",
    "date": "2024-02",
-   "new": false
+   "new": true
   },
   {
-   "id": 110,
+   "id": 132,
    "title": "DoNotPay代你排队",
    "desc": "机器人客服自动拨号排队、取消订阅、发退款投诉，免人工等待。",
    "cat": "money",
@@ -1102,7 +1322,7 @@
    "new": false
   },
   {
-   "id": 111,
+   "id": 133,
    "title": "按个键就能『起诉』",
    "desc": "DoNotPay App一键生成投诉文书、讨退款、处理罚单。",
    "cat": "money",
@@ -1112,7 +1332,7 @@
    "new": false
   },
   {
-   "id": 112,
+   "id": 134,
    "title": "试用期自动取消卡",
    "desc": "DoNotPay虚拟卡在免费试用到期时自动取消，防意外扣费。",
    "cat": "money",
@@ -1122,17 +1342,17 @@
    "new": false
   },
   {
-   "id": 113,
+   "id": 135,
    "title": "退订垃圾邮件讨钱",
    "desc": "DoNotPay批量退订垃圾邮件，并替用户发起集体退款索赔。",
    "cat": "money",
    "source": "Wired",
    "url": "https://www.wired.com/story/donotpay-unsubscribe-spam-class-action/",
    "date": "2020-07",
-   "new": false
+   "new": true
   },
   {
-   "id": 114,
+   "id": 136,
    "title": "保险拒赔AI申诉平台",
    "desc": "创始人40次拒赔赢9成，做开源LLM平台自动生成申诉信。",
    "cat": "money",
@@ -1142,7 +1362,7 @@
    "new": false
   },
   {
-   "id": 115,
+   "id": 137,
    "title": "理赔员最怕AI",
    "desc": "Wired调查：AI正重塑保险理赔审核，理赔员岗位受冲击。",
    "cat": "money",
@@ -1152,7 +1372,7 @@
    "new": false
   },
   {
-   "id": 116,
+   "id": 138,
    "title": "医保AI预授权记录曝光",
    "desc": "EFF诉讼拿到WISeR记录：大量延误，两供应商三个月拒5944件。",
    "cat": "money",
@@ -1162,7 +1382,7 @@
    "new": false
   },
   {
-   "id": 117,
+   "id": 139,
    "title": "AI能治好预授权吗",
    "desc": "Medicare试点用AI审预授权，延误与不当拒付争议持续。",
    "cat": "money",
@@ -1172,7 +1392,7 @@
    "new": false
   },
   {
-   "id": 118,
+   "id": 140,
    "title": "AI参与医保待遇审批",
    "desc": "KFF：Medicare试点让AI参与治疗项目预授权的批准与否。",
    "cat": "money",
@@ -1182,7 +1402,7 @@
    "new": false
   },
   {
-   "id": 119,
+   "id": 141,
    "title": "学生索退8千学费",
    "desc": "发现教授秘密用ChatGPT备课，投诉要求退还该课程学费。",
    "cat": "money",
@@ -1192,7 +1412,7 @@
    "new": false
   },
   {
-   "id": 120,
+   "id": 142,
    "title": "Comet浏览器免费开放",
    "desc": "Perplexity智能体浏览器向所有人免费开放，对标Chrome。",
    "cat": "money",
@@ -1202,7 +1422,7 @@
    "new": false
   },
   {
-   "id": 121,
+   "id": 143,
    "title": "PayPal用户抢先体验Comet",
    "desc": "PayPal/Venmo用户免费领一年Pro，订阅中心绑3订阅返$50。",
    "cat": "money",
@@ -1212,7 +1432,7 @@
    "new": false
   },
   {
-   "id": 122,
+   "id": 144,
    "title": "Perplexity智能体购物",
    "desc": "聊天内比价、订行程、买票，用PayPal/Venmo直接结账付款。",
    "cat": "money",
@@ -1222,7 +1442,7 @@
    "new": false
   },
   {
-   "id": 123,
+   "id": 145,
    "title": "Manus邀请码炒到10万",
    "desc": "中国自主智能体走红，邀请码在二手市场炒至最高10万元。",
    "cat": "money",
@@ -1232,7 +1452,7 @@
    "new": false
   },
   {
-   "id": 124,
+   "id": 146,
    "title": "ChatGPT浏览器Atlas下线",
    "desc": "OpenAI智能体浏览器上线不到一年即关闭，难以为继。",
    "cat": "money",
@@ -1242,7 +1462,7 @@
    "new": false
   },
   {
-   "id": 125,
+   "id": 147,
    "title": "Atlas浏览器瞄准Chrome",
    "desc": "OpenAI在浏览器内置ChatGPT智能体，代购物与办任务。",
    "cat": "money",
@@ -1252,7 +1472,7 @@
    "new": false
   },
   {
-   "id": 126,
+   "id": 148,
    "title": "Pane：AI管你的账单",
    "desc": "MCP接银行数据，作者用它发现被重复扣费并追回损失。",
    "cat": "money",
@@ -1262,7 +1482,7 @@
    "new": false
   },
   {
-   "id": 127,
+   "id": 149,
    "title": "Coverage Cat智能体比价",
    "desc": "持牌保险经纪开放Agent API/MCP，个人智能体代比保险报价。",
    "cat": "money",
@@ -1272,7 +1492,7 @@
    "new": false
   },
   {
-   "id": 128,
+   "id": 150,
    "title": "Coasty代填预授权表",
    "desc": "计算机操作API代医疗团队在支付方门户填交预授权表单。",
    "cat": "money",
@@ -1282,7 +1502,7 @@
    "new": false
   },
   {
-   "id": 129,
+   "id": 151,
    "title": "Simplex做账单自动化",
    "desc": "浏览器智能体替客户填预授权、收Coupa账单等财务门户流程。",
    "cat": "money",
@@ -1292,7 +1512,7 @@
    "new": false
   },
   {
-   "id": 130,
+   "id": 152,
    "title": "只用AI报税",
    "desc": "HN讨论：有人去年用AI报税省时，今年模型更强更放心。",
    "cat": "money",
@@ -1302,7 +1522,7 @@
    "new": false
   },
   {
-   "id": 131,
+   "id": 153,
    "title": "MCP跑报税流程",
    "desc": "讨论让Claude/ChatGPT经MCP税务服务填表、复核后代提交。",
    "cat": "money",
@@ -1312,7 +1532,7 @@
    "new": false
   },
   {
-   "id": 132,
+   "id": 154,
    "title": "Operator翻车5成",
    "desc": "$200 Pro用户实测OpenAI Operator：6个任务崩5个，值不值？",
    "cat": "money",
@@ -1322,7 +1542,7 @@
    "new": false
   },
   {
-   "id": 133,
+   "id": 155,
    "title": "删号拿回$6.78",
    "desc": "ChatGPT Plus删号早于到期，系统按比例退还未用天数费用。",
    "cat": "money",
@@ -1332,7 +1552,7 @@
    "new": false
   },
   {
-   "id": 134,
+   "id": 156,
    "title": "取消续费被锁Design",
    "desc": "Claude取消续费后提前锁Design权限，用户拟拒付维权。",
    "cat": "money",
@@ -1342,7 +1562,7 @@
    "new": false
   },
   {
-   "id": 135,
+   "id": 157,
    "title": "DoNotPay暗扣款门",
    "desc": "卸载一年后仍被每月扣$3，用户与同行讨论拒付与止损。",
    "cat": "money",
@@ -1352,7 +1572,7 @@
    "new": false
   },
   {
-   "id": 136,
+   "id": 158,
    "title": "reclaim拒赔申诉平台",
    "desc": "Claude管线分类拒赔、起草申诉信、抓取医疗账单错误。",
    "cat": "money",
@@ -1362,7 +1582,7 @@
    "new": false
   },
   {
-   "id": 137,
+   "id": 159,
    "title": "理赔四智能体流水线",
    "desc": "LangGraph四智能体评拒赔风险并起草申诉，含公开demo。",
    "cat": "money",
@@ -1372,7 +1592,7 @@
    "new": false
   },
   {
-   "id": 138,
+   "id": 160,
    "title": "hay-core退款智能客服",
    "desc": "自托管AI客服代理经Shopify/Stripe处理退款订单，可转人工。",
    "cat": "money",
@@ -1382,7 +1602,7 @@
    "new": false
   },
   {
-   "id": 139,
+   "id": 161,
    "title": "countersign收款代理",
    "desc": "PayPal黑客松项目：代理起草退款与发票，资金动作需人点。",
    "cat": "money",
@@ -1392,7 +1612,7 @@
    "new": false
   },
   {
-   "id": 140,
+   "id": 162,
    "title": "Leger：AI记账砍账单",
    "desc": "AI个人财务：收据OCR、自动分类、账单谈判与GST合规。",
    "cat": "money",
@@ -1402,7 +1622,7 @@
    "new": false
   },
   {
-   "id": 141,
+   "id": 163,
    "title": "Codex账单谈判技能",
    "desc": "开源Codex技能，代与商家谈订阅续费与账单降价。",
    "cat": "money",
@@ -1412,7 +1632,7 @@
    "new": false
   },
   {
-   "id": 142,
+   "id": 164,
    "title": "bill-slasher语音砍单",
    "desc": "自主语音智能体致电商家协商账单，自动砍价。",
    "cat": "money",
@@ -1422,7 +1642,7 @@
    "new": false
   },
   {
-   "id": 143,
+   "id": 165,
    "title": "MediAuth-AI预授权代理",
    "desc": "多智能体从患者接诊到生成授权信、自动递交申诉。",
    "cat": "money",
@@ -1432,7 +1652,7 @@
    "new": false
   },
   {
-   "id": 144,
+   "id": 166,
    "title": "退款多智能体网络",
    "desc": "LangGraph+MCP退款工作流，人工审批闸口与3D运维面板。",
    "cat": "money",
@@ -1442,7 +1662,7 @@
    "new": false
   },
   {
-   "id": 145,
+   "id": 167,
    "title": "医保申诉信生成器",
    "desc": "输入医保拒付记录，规则引擎+LLM生成申诉材料供医保办用。",
    "cat": "money",
@@ -1452,7 +1672,7 @@
    "new": false
   },
   {
-   "id": 146,
+   "id": 168,
    "title": "LLM谈下Comcast账单",
    "desc": "DoNotPay的LLM与Comcast客服机器人谈判，工程师年省$120。",
    "cat": "money",
@@ -1462,7 +1682,7 @@
    "new": false
   },
   {
-   "id": 147,
+   "id": 169,
    "title": "pane.money财务对话",
    "desc": "MCP接Plaid银行数据，让Claude/ChatGPT代查账单与订阅。",
    "cat": "money",
@@ -1472,7 +1692,7 @@
    "new": true
   },
   {
-   "id": 148,
+   "id": 170,
    "title": "TaxplAIn白话报税",
    "desc": "AI税务顾问引IRS原文作答，确定性算出退税额，不索社保号。",
    "cat": "money",
@@ -1482,7 +1702,7 @@
    "new": true
   },
   {
-   "id": 149,
+   "id": 171,
    "title": "AI 自动投简历机器人",
    "desc": "Agent 按简历匹配岗位自动投递，睡觉时也持续求职，GitHub 3.2万星",
    "cat": "work",
@@ -1492,7 +1712,7 @@
    "new": false
   },
   {
-   "id": 150,
+   "id": 172,
    "title": "HR 简历批量评分 Agent",
    "desc": "招聘方用 Agent 批量评估、打分简历，辅助初筛，7300+ 星",
    "cat": "work",
@@ -1502,7 +1722,7 @@
    "new": false
   },
   {
-   "id": 151,
+   "id": 173,
    "title": "模拟HR筛选简历",
    "desc": "Agent 逆向招聘算法模拟HR初筛，提前告诉你简历怎么改",
    "cat": "work",
@@ -1512,7 +1732,7 @@
    "new": false
   },
   {
-   "id": 152,
+   "id": 174,
    "title": "Claude 简历求职技能包",
    "desc": "装进 Claude Code，代写简历、ATS 优化、面试准备一条龙",
    "cat": "work",
@@ -1522,7 +1742,7 @@
    "new": false
   },
   {
-   "id": 153,
+   "id": 175,
    "title": "本地 Mac 会议记录 Agent",
    "desc": "Mac 本机 AI：语音听写、会议记录加本地 Agent，数据不出机器",
    "cat": "work",
@@ -1532,7 +1752,7 @@
    "new": false
   },
   {
-   "id": 154,
+   "id": 176,
    "title": "会议纪要变高管洞察",
    "desc": "Agent 读 Obsidian 纪要库，把会议、优先级蒸馏成高管级洞察",
    "cat": "work",
@@ -1542,7 +1762,7 @@
    "new": false
   },
   {
-   "id": 155,
+   "id": 177,
    "title": "免费本机会议记录",
    "desc": "macOS 本地转写、摘要、行动项，可接自己的模型，免费开源",
    "cat": "work",
@@ -1552,7 +1772,7 @@
    "new": false
   },
   {
-   "id": 156,
+   "id": 178,
    "title": "Granola AI 会议笔记",
    "desc": "本地录音不开 bot 自动出笔记，会前自动推简报，多家大厂在用",
    "cat": "work",
@@ -1562,7 +1782,7 @@
    "new": true
   },
   {
-   "id": 157,
+   "id": 179,
    "title": "Otter 会议智能体",
    "desc": "会议全量转写成可检索知识库，销售场景自动跟进并同步 CRM",
    "cat": "work",
@@ -1572,7 +1792,7 @@
    "new": true
   },
   {
-   "id": 158,
+   "id": 180,
    "title": "1000封邮件1分钟分拣",
    "desc": "Jev 模型批量分拣 Gmail，1000 封约一分钟、成本仅 3 美分",
    "cat": "work",
@@ -1582,7 +1802,7 @@
    "new": false
   },
   {
-   "id": 159,
+   "id": 181,
    "title": "终端邮箱 AI 分拣",
    "desc": "终端读邮箱、AI 分拣清理，带 MCP 工具，SSH 远程也能用",
    "cat": "work",
@@ -1592,7 +1812,7 @@
    "new": false
   },
   {
-   "id": 160,
+   "id": 182,
    "title": "AI 秘书草稿先批准",
    "desc": "自托管 Agent 分拣邮件私信、按你的语气起草，Discord 批准才发",
    "cat": "work",
@@ -1602,7 +1822,7 @@
    "new": false
   },
   {
-   "id": 161,
+   "id": 183,
    "title": "邮件分拣推送微信",
    "desc": "自托管 Agent 过滤噪音、中文摘要重点邮件并推微信提醒",
    "cat": "work",
@@ -1612,7 +1832,7 @@
    "new": false
   },
   {
-   "id": 162,
+   "id": 184,
    "title": "Agent 邮箱 CLI",
    "desc": "让 AI 代理读、搜、发、分拣 Gmail/QQ/163 等任意 IMAP 邮箱",
    "cat": "work",
@@ -1622,7 +1842,7 @@
    "new": false
   },
   {
-   "id": 163,
+   "id": 185,
    "title": "Claude Code 邮件技能",
    "desc": "收件箱分拣、代写、质检、营销序列自动化，一套 Claude 技能",
    "cat": "work",
@@ -1632,7 +1852,7 @@
    "new": false
   },
   {
-   "id": 164,
+   "id": 186,
    "title": "邮件会议变知识图谱",
    "desc": "Agent 把 Gmail、会议纪要建成本地图谱，代写邮件、备会、出 PPT",
    "cat": "work",
@@ -1642,7 +1862,7 @@
    "new": false
   },
   {
-   "id": 165,
+   "id": 187,
    "title": "80个自托管Agent应用",
    "desc": "Rust 开源平台：聊天、CRM、邮件、日历、RAG 等 80 个 Agent 应用",
    "cat": "work",
@@ -1652,7 +1872,7 @@
    "new": true
   },
   {
-   "id": 166,
+   "id": 188,
    "title": "Motion 自动排日程",
    "desc": "AI 自动规划每天日程，任务冲突时智能重排，还能代记会议",
    "cat": "work",
@@ -1662,7 +1882,7 @@
    "new": true
   },
   {
-   "id": 167,
+   "id": 189,
    "title": "Reclaim 自动排会",
    "desc": "AI 守住专注时间、自动排会和习惯，数千家公司靠它省时间",
    "cat": "work",
@@ -1672,7 +1892,7 @@
    "new": true
   },
   {
-   "id": 168,
+   "id": 190,
    "title": "一句话管日历邮箱CRM",
    "desc": "n8n 自治 OS：一条文字或语音指令管理日历、邮箱、CRM、订会",
    "cat": "work",
@@ -1682,7 +1902,7 @@
    "new": false
   },
   {
-   "id": 169,
+   "id": 191,
    "title": "对话式数据库分析",
    "desc": "PandasAI 自然语言查数据库/数据湖，自动写 SQL 出分析，2.4万星",
    "cat": "work",
@@ -1692,7 +1912,7 @@
    "new": false
   },
   {
-   "id": 170,
+   "id": 192,
    "title": "聊天式数据分析助手",
    "desc": "对话即分析，自动生成可视化报表和商业洞察，告别手写 SQL",
    "cat": "work",
@@ -1702,7 +1922,7 @@
    "new": false
   },
   {
-   "id": 171,
+   "id": 193,
    "title": "自然语言查数出图",
    "desc": "接 CSV/Postgres/MySQL/Snowflake，聊天出图表，1600+ 星",
    "cat": "work",
@@ -1712,7 +1932,7 @@
    "new": false
   },
   {
-   "id": 172,
+   "id": 194,
    "title": "GitHub 自动周报",
    "desc": "GitHub Action 每周自动汇总团队活跃度并发布报告到 Pages",
    "cat": "work",
@@ -1722,7 +1942,7 @@
    "new": false
   },
   {
-   "id": 173,
+   "id": 195,
    "title": "飞书自动日报周报",
    "desc": "自动抓飞书消息，大模型生成结构化日报周报，支持本地模型",
    "cat": "work",
@@ -1732,7 +1952,7 @@
    "new": false
   },
   {
-   "id": 174,
+   "id": 196,
    "title": "竞品监控自动周报",
    "desc": "定时 Agent 盯竞品网站、价格、招聘，LLM 提信号、自动出周报",
    "cat": "work",
@@ -1742,7 +1962,7 @@
    "new": false
   },
   {
-   "id": 175,
+   "id": 197,
    "title": "PM 竞品情报 Agent",
    "desc": "Warp 官方开源：客户反馈、竞品研究、定价预测、PRD、周报",
    "cat": "work",
@@ -1752,7 +1972,7 @@
    "new": false
   },
   {
-   "id": 176,
+   "id": 198,
    "title": "Linear 自动客户报告",
    "desc": "周期一关自动生成客户报告+门户，不用再周一手写四遍",
    "cat": "work",
@@ -1762,7 +1982,7 @@
    "new": true
   },
   {
-   "id": 177,
+   "id": 199,
    "title": "Navan 一周跨月迁移",
    "desc": "Cursor 云端 Agent 并行迁移 8 应用 15 库，1 周完成原需 1 个月",
    "cat": "work",
@@ -1772,7 +1992,7 @@
    "new": false
   },
   {
-   "id": 178,
+   "id": 200,
    "title": "Nokia 两周析5000万行",
    "desc": "2 名工程师 2 周分析 5000 万行代码，原需十几名专家数月",
    "cat": "work",
@@ -1782,7 +2002,7 @@
    "new": false
   },
   {
-   "id": 179,
+   "id": 201,
    "title": "Grab 98%员工用AI",
    "desc": "98% 技术员工月活使用 Cursor，设计师当天上线数百处 UI 修复",
    "cat": "work",
@@ -1792,7 +2012,7 @@
    "new": false
   },
   {
-   "id": 180,
+   "id": 202,
    "title": "会计Agent报税快6倍",
    "desc": "Agent 自动做 1065 合伙报税，30-40 小时活 6-7 小时完成",
    "cat": "work",
@@ -1802,7 +2022,7 @@
    "new": false
   },
   {
-   "id": 181,
+   "id": 203,
    "title": "Agent 跨会话项目跟踪",
    "desc": "给编码 Agent 配 Jira 式 SQLite 跟踪器，41 工具防跨会话失忆",
    "cat": "work",
@@ -1812,7 +2032,7 @@
    "new": false
   },
   {
-   "id": 182,
+   "id": 204,
    "title": "AI编码会话变周报",
    "desc": "把 Claude Code/Codex/Cursor 会话蒸馏成周报、ADR 与知识图谱",
    "cat": "work",
@@ -1822,7 +2042,7 @@
    "new": false
   },
   {
-   "id": 183,
+   "id": 205,
    "title": "Cursor 新式智能体编码",
    "desc": "Cursor 推出新智能体编码系统，多 Agent 长任务、云端并行开发",
    "cat": "work",
@@ -1832,7 +2052,7 @@
    "new": false
   },
   {
-   "id": 184,
+   "id": 206,
    "title": "一句话出可编辑PPT",
    "desc": "Claude Code/Codex/Cursor 一句话生成原生可编辑 PPTX，58 星",
    "cat": "work",
@@ -1842,7 +2062,7 @@
    "new": false
   },
   {
-   "id": 185,
+   "id": 207,
    "title": "自托管PPT生成器",
    "desc": "输入主题或资料，自动调研出 34 套主题的可编辑 PPTX 与报告",
    "cat": "work",
@@ -1852,7 +2072,7 @@
    "new": false
   },
   {
-   "id": 186,
+   "id": 208,
    "title": "M365 Copilot 进医院",
    "desc": "员工用 Copilot 管收件箱、总结会议、析合同；Researcher 助 4 月定政策",
    "cat": "work",
